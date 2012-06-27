@@ -1,0 +1,1 @@
+This program loads points from a point file and draws curves between them, the slider changes the level of Chaikin's Curve interpolation. The Mighty Max Points were entered by hand. The point of the project was to get used to simple curve interpolation algorithms.
